@@ -1,1 +1,1 @@
-ProjetoCalculadora, ainda incompleto!
+ProjetoCalculadora, agora com testes feitos!
