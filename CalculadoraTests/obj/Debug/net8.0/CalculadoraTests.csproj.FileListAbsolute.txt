@@ -1,0 +1,6 @@
+C:\Users\erick\OneDrive\Documentos\ProjetoCalculadora\CalculadoraTests\bin\Debug\net8.0\CoverletSourceRootsMapping_CalculadoraTests
+C:\Users\erick\OneDrive\Documentos\ProjetoCalculadora\CalculadoraTests\obj\Debug\net8.0\CalculadoraTests.csproj.AssemblyReference.cache
+C:\Users\erick\OneDrive\Documentos\ProjetoCalculadora\CalculadoraTests\obj\Debug\net8.0\CalculadoraTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\OneDrive\Documentos\ProjetoCalculadora\CalculadoraTests\obj\Debug\net8.0\CalculadoraTests.AssemblyInfoInputs.cache
+C:\Users\erick\OneDrive\Documentos\ProjetoCalculadora\CalculadoraTests\obj\Debug\net8.0\CalculadoraTests.AssemblyInfo.cs
+C:\Users\erick\OneDrive\Documentos\ProjetoCalculadora\CalculadoraTests\obj\Debug\net8.0\CalculadoraTests.csproj.CoreCompileInputs.cache
